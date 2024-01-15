@@ -1,0 +1,385 @@
+
+
+.game-main__content {
+
+  &-back-btn {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    border: 2px solid $white-light;
+    width: fit-content;
+    padding: 10px 20px;
+    border-radius: 7px;
+    letter-spacing: 1.93px;
+
+    cursor: pointer;
+
+    color: $white;
+    font-family: MontserratRegular;
+    transition: .2s;
+
+  }
+
+  &-back-btn:hover {
+    border: 2px solid $border-blue;
+    background-color: $border-blue-background;
+
+  }
+
+
+  &-top {
+    padding-top: 25px;
+    display: grid;
+    grid-template-columns: 295px 505px 419px;
+    gap: 77px;
+  }
+
+  &-left-side{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    justify-self: flex-start;
+  }
+
+  &-game-image {
+
+    width: 295px;
+    height: 295px;
+
+    border-radius: 14px;
+  }
+
+  &-favorite-btn-text {
+    background-color: inherit;
+    cursor: pointer;
+    border: 2px solid $white-light;
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: $white;
+    font-family: MontserratRegular;
+    transition: .2s;
+    letter-spacing: 1.93px;
+
+  }
+
+  &-favorite-btn-text-active {
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: $white;
+    font-family: MontserratRegular;
+    transition: .2s;
+    letter-spacing: 1.93px;
+
+    background-color: $red-light;
+    border:2px solid $red;
+  }
+
+  &-favorite-btn-text:hover {
+    background-color: $red-light;
+    border:2px solid $red;
+  }
+
+  &-middle {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  &-title {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  &-title-score {
+    border: 2px solid $green-light;
+    border-radius: 7px;
+    padding: 4px 16px;
+
+  }
+
+  &-title-name {
+    font-size: 30px;
+    letter-spacing: 2.85px;
+  }
+
+  &-info {
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    &-lines {
+      display: grid;
+      grid-template-columns: 200px 300px;
+      word-wrap: break-word;
+    }
+  }
+
+
+  &-info-name {
+    color: $border;
+    font-size: 20px;
+    letter-spacing: 1.9px;
+  }
+
+  &-info-text {
+    font-size: 20px;
+    letter-spacing: 1.9px;
+    line-height: 180.4%;
+    overflow-wrap: inherit;
+  }
+
+  &-right-side {
+    display: flex;
+    flex-direction: column;
+    justify-self: flex-end;
+    align-items: center;
+
+    &-btns {
+      width: 100%;
+      justify-content: flex-end;
+      display: flex;
+      gap: 30px;
+      padding-bottom: 42px;
+    }
+
+
+
+  }
+
+  &-btn {
+    padding: 10px 32px;
+    border-radius: 7px;
+    border: 2px solid $white-light;
+    font-size: 16px;
+    letter-spacing: 1.52px;
+    cursor: pointer;
+  }
+
+  &-btn:hover {
+    background-color: $border-blue-background;
+    border: 2px solid $border-blue;
+  }
+
+  &-tabs {
+
+    display: flex;
+    gap: 47px;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+
+    padding-bottom: 50px;
+
+    &-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      &-title {
+        font-size: 25px;
+        line-height: 45px;
+        letter-spacing: 2.375px;
+      }
+
+      &-text {
+        font-size: 16px;
+        letter-spacing: 2px;
+        line-height: 20.6px;
+        word-wrap: break-word;
+      }
+    }
+  }
+
+  &-tab {
+    font-family: MontserratRegular;
+    padding: 10px 12px;
+    background-color: inherit;
+    border: 2px solid $white-light;
+    border-radius: 7px;
+
+    color: $white;
+
+    font-size: 16px;
+    letter-spacing: 1.52px;
+
+    cursor: pointer;
+  }
+
+  &-tab:hover {
+    background-color: $border-blue-background;
+    border: 2px solid $border-blue;
+  }
+
+  &-tab-active {
+    font-family: MontserratRegular;
+    padding: 10px 12px;
+    background-color: $border-blue-background;
+    border: 2px solid $border-blue;
+    border-radius: 7px;
+
+    color: $white;
+
+    font-size: 16px;
+    letter-spacing: 1.52px;
+
+    cursor: pointer;
+  }
+
+  &-description {
+    padding-top: 59px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+    &-title {
+      font-size: 25px;
+      letter-spacing: 2.375px;
+    }
+
+    &-text {
+      font-size: 20px;
+      line-height: 180%;
+      letter-spacing: 1.9px;
+    }
+    margin-bottom: 50px;
+  }
+
+  &-comments {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &-add-comment {
+
+      input {
+        width: 500px;
+        height: 50px;
+        border-radius: 7px;
+        background-color: inherit;
+        border: 2px solid $white-light;
+        padding: 10px;
+
+        font-family: MontserratRegular;
+        font-size: 16px;
+        letter-spacing: 1.19px;
+        color: $white;
+
+        margin-bottom: 25px;
+      }
+      input:focus {
+        outline: none;
+      }
+
+      button {
+        border: 2px solid $border-blue;
+        border-radius: 7px;
+        padding: 10px;
+        background-color: inherit;
+        color: $white;
+
+        font-size: 16px;
+        letter-spacing: 1.19px;
+        font-family: MontserratRegular;
+
+        cursor: pointer;
+        transition: .2s;
+      }
+
+      button:hover {
+        background-color: $border-blue-background;
+      }
+    }
+
+
+    &-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      align-self: flex-start;
+      gap: 50px;
+    }
+
+    &-comment {
+      display: flex;
+      align-items: center;
+      gap: 50px;
+
+      &-profile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;
+      }
+
+      &-avatar {
+        width: 100px;
+        height: 100px;
+        border-radius: 100px;
+      }
+
+      &-text {
+        font-size: 20px;
+        letter-spacing: 1.19px;
+      }
+    }
+  }
+
+
+  #tab-rec-content {
+    display: none;
+  }
+
+  &-review-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 25px;
+
+    &-btns {
+      display: flex;
+      align-items: center;
+      gap: 25px;
+    }
+  }
+
+  &-review-content {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding-top: 25px;
+
+
+  &-header {
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 2.25px;
+  }
+
+    &-image {
+      border-radius: 7px;
+  }
+
+  &-text {
+    word-wrap: break-word;
+
+    font-size: 25px;
+    line-height: 180%;
+    letter-spacing: 2.25px;
+    width: 1400px;
+  }
+
+
+  }
+
+
+
+
+
+
+}

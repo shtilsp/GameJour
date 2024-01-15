@@ -1,0 +1,20 @@
+{
+  "name": "gamejour",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "sassWatch": "sass --watch src/scss/index.scss css/main.css",
+    "jsonServer": "json-server --watch db.json"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "sass": "^1.69.5",
+    "swiper": "^11.0.4"
+  }
+}

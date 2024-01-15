@@ -1,0 +1,177 @@
+.profile-content {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__modal-overlay {
+    display: none;
+
+    width: 100vw;
+    height: 100vh;
+
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 1px solid $white-light;
+    border-radius: 8px;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+  }
+
+  &__nickname {
+    font-size: 25px;
+    letter-spacing: 2.375px;
+    padding-bottom: 25px;
+  }
+  &__image {
+    border-radius: 300px;
+    object-fit: cover;
+    margin-bottom: 31px;
+    width: 300px;
+    height: 300px;
+  }
+  &__change-btns {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 33px;
+
+    &-change-nick-modal {
+      background-color: $background;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      padding: 40px 86px;
+      position: relative;
+
+      width: 500px;
+      height: 300px;
+
+      border-radius: 7px;
+
+      &-title {
+        font-size: 25px;
+        letter-spacing: 1.19px;
+        padding-bottom: 25px;
+
+      }
+
+      &-input {
+        font-family: MontserratRegular;
+        font-size: 16px;
+        letter-spacing: 1.19px;
+        border: 1px solid $white-light;
+        border-radius: 7px;
+        padding: 5px 10px;
+        margin-bottom: 25px;
+      }
+
+      &-save {
+        padding: 15px 25px;
+        background-color: inherit;
+        color: $white;
+        font-family: MontserratRegular;
+        font-size: 20px;
+        border: 2px solid $border-blue;
+        letter-spacing: 1.19px;
+        border-radius: 7px;
+
+        cursor: pointer;
+
+        transition: .2s;
+      }
+
+      &-save:hover {
+        background-color: $border-blue-background;
+      }
+
+      &-cross {
+        width: 30px;
+        height: 1px;
+
+        color: $white;
+
+        position: relative;
+
+        &-container {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          //height: 100vh;
+
+          position: absolute;
+          top: 30px;
+          right: 20px;
+
+          cursor: pointer;
+        }
+
+        &-line {
+          position: absolute;
+          width: 100%;
+          height: 2px;
+          background-color: $white;
+          transform-origin: center;
+
+        }
+
+        &-horizontal-line {
+          transform: rotate(45deg);
+        }
+        &-vertical-line {
+          transform: rotate(-45deg);
+        }
+      }
+
+
+    }
+
+  }
+  &__change-btns p{
+    font-size: 25px;
+    letter-spacing: 2.375px;
+    cursor: pointer;
+    transition: .2s;
+  }
+
+
+  &__change-btns p:hover {
+    scale: 1.1;
+  }
+
+  &__exit {
+    font-size: 20px;
+    letter-spacing: 1.9px;
+    padding: 16px 70px;
+
+    cursor: pointer;
+
+    background-color: inherit;
+
+    color: $white;
+
+    border: 1px solid $red;
+    border-radius: 7px;
+    transition: .2s;
+  }
+
+  &__exit:hover {
+    background-color: $red;
+  }
+}
+
+#changeNickError {
+  padding-top: 10px;
+  color: $red;
+  font-size: 14px;
+  letter-spacing: 1.19px;
+  text-align: center;
+}
+

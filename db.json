@@ -1,0 +1,411 @@
+{
+  "spotlightGamesDb": [
+    {
+      "id": 17010869063726,
+      "name": "Red Dead Redemption II",
+      "image": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg",
+      "gallery": [
+        "https://gamespot.com/a/uploads/original/1179/11799911/3383938-duck.jpg",
+        "data:image/jpeg;base64,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",
+        "data:image/jpeg;base64,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"
+      ],
+      "rating": "96",
+      "date": "2018-10-26",
+      "dev": [
+        "Rockstar North",
+        "Rockstar San Diego"
+      ],
+      "publisher": "Rockstar Games",
+      "platforms": [
+        "PC",
+        "Sony Playstation 4",
+        "Sony Playstation 5",
+        "Microsoft Xbox One",
+        "Microsoft Xbox Series X"
+      ],
+      "genre": [
+        "Экшн",
+        "Приключение"
+      ],
+      "minSys": [
+        "Операционная система: не ниже Windows 7/8/10",
+        "Процессор: Intel Core i7-4770K",
+        "Оперативная память: 8 ГБ",
+        "Видеокарта: NVIDIA GeForce GTX 1060",
+        "Место на жестком диске: 150 ГБ",
+        "DiretX"
+      ],
+      "recSys": [
+        "Операционная система: не ниже Windows 7/8/10",
+        "Процессор: Intel Core i5-2500K",
+        "Оперативная память: 8 ГБ",
+        "Видеокарта: NVIDIA GeForce GTX 770",
+        "Место на жестком диске: 150 ГБ",
+        "DiretX"
+      ],
+      "description": "Red Dead Redemption 2 это игра жанра экшен и приключения, действия которой происходят в большом открытом мире. События игры происходят в 1899 году и игроку предстоит оказаться в центре грандиозной истории о жизни и выживании в самом сердце дикой Америки.  Сюжет разворачивается вокруг приключения банды Датча Ван дер Линде. Игроку предстоит играть за Артура Моргана, олиного из членов банды.  В Red Dead Redemption 2 игрок может игроку свободно передвигаться по обширному миру, самостоятельно находить интересные места и решать задания. Нам доступны перестрелки, ограбления банков, охота, скачки и другое."
+    },
+    {
+      "id": 17010876288046,
+      "name": "Session",
+      "image": "https://images.stopgame.ru/games/logos/20657/c224x224/rsqvVt7NCJ7kMy1zDFH5Vg/session_skateboarding_sim_game-square.jpg",
+      "gallery": [
+        "https://vkplay.ru/hotbox/content_files/gallery/2022/07/08/82c00d405bb844c08b6bfe1c6f0cc4da.jpg",
+        "https://vkplay.ru/hotbox/content_files/gallery/2022/07/08/c9c70e1a869b4e71a12c3ae941be2cb5.jpg",
+        "https://vkplay.ru/hotbox/content_files/gallery/2022/07/08/f16049e6382d43ffbd6ef9ffbc781097.jpg"
+      ],
+      "rating": "86",
+      "date": "2021-09-17",
+      "dev": [
+        "crea-ture Studios Inc."
+      ],
+      "publisher": "Nacon",
+      "platforms": [
+        "PC",
+        "Sony Playstation 4",
+        "Sony Playstation 5",
+        "Microsoft Xbox One",
+        "Microsoft Xbox Series X"
+      ],
+      "genre": [
+        "Аркада",
+        "Симулятор"
+      ],
+      "minSys": [
+        "ОС: Windows 7",
+        "Процессор: Intel Core i7-2700K or AMD FX-8370",
+        "Оперативная память: 8 GB ОЗУ",
+        "Видеокарта: NVIDIA GeForce GTX 650 Ti, 2 GB or AMD Radeon R7 360, 2 GB",
+        "Место на диске: 15 GB",
+        "DirectX: версии 9.0"
+      ],
+      "recSys": [
+        "ОС: Windows 10",
+        "Процессор: Intel Core i7-4790 or AMD Ryzen 5 2600",
+        "Оперативная память: 8 GB ОЗУ",
+        "Видеокарта: NVIDIA GeForce GTX 970, 4 GB or AMD Radeon RX 480, 4 GB",
+        "Место на диске: 15 GB",
+        "DirectX: версии 12"
+      ],
+      "description": "Session – это (как гласит ее описание в Steam) игра, созданная скейтерами для ценителей: dual stick controls подарят ощущение доски под ногами и реалистичный игровой опыт."
+    },
+    {
+      "id": 17010878536526,
+      "name": "Baldur’s Gate III",
+      "image": "https://images.stopgame.ru/games/logos/19092/c224x224/4EI2-rC8Jq5naa8egfcN3g/baldur_s_gate_iii-square.jpg",
+      "gallery": [
+        "https://mmo13.ru/download/content/202307/image_64be37e2562837.33629995.jpg",
+        "https://files.vgtimes.ru/gallery/thumb/170875/3457447268_20230809051949_1.jpg",
+        "https://vkplay.ru/hotbox/content_files/gallery/2020/02/25/22d2f54434ac4ecb82f0d86efd076563.jpg"
+      ],
+      "rating": "94",
+      "date": "2023-08-03",
+      "dev": [
+        "Larian Studios"
+      ],
+      "publisher": "Larian Studios",
+      "platforms": [
+        "PC",
+        "Sony Playstation 5",
+        "Microsoft Xbox Series X"
+      ],
+      "genre": [
+        "Экшн",
+        "Приключение",
+        "Казуальный",
+        "Головоломка",
+        "ММО",
+        "Онлайн",
+        "Ролевая"
+      ],
+      "minSys": [
+        "ОС: Windows 10 64-bit",
+        "Процессор: Intel I5 4690 / AMD FX 8350",
+        "Оперативная память: 8 GB ОЗУ",
+        "Видеокарта: Nvidia GTX 970 / RX 480 (4GB+ of VRAM)",
+        "Место на диске: 150 GB SSD",
+        "DirectX: версии 11"
+      ],
+      "recSys": [
+        "ОС: Windows 10 64-bit",
+        "Процессор: Intel i7 8700K / AMD r5 3600",
+        "Оперативная память: 16 GB ОЗУ",
+        "Видеокарта: Nvidia 2060 Super / RX 5700 XT (8GB+ of VRAM)",
+        "Место на диске: 150 GB SSD",
+        "DirectX: версии 11"
+      ],
+      "description": "Baldur’s Gate 3 (в переводе с англ. — «Врата Балдура 3») — компьютерная ролевая игра, разработанная и изданная бельгийской компанией Larian Studios. Baldur’s Gate 3 стала продолжением серии Baldur’s Gate, основанной на настольной ролевой игре Dungeons & Dragons; её действие происходит в той же вымышленной вселенной Forgotten Realms."
+    },
+    {
+      "id": 17010880302266,
+      "name": "Cuphead",
+      "image": "https://images.stopgame.ru/games/logos/13850/c224x224/UumrXRucxuB8DDSpQN60XQ/cuphead-square.jpg",
+      "gallery": [
+        "https://cdn.kanobu.ru/screenshots/16/a3e0c06f-06dc-4783-815a-f22d8c23ffcd.jpg",
+        "https://cdn.kanobu.ru/screenshots/16/8eeb4d8a-ef35-4a2c-b614-c7ed97f92283.jpg"
+      ],
+      "rating": "95",
+      "date": "2017-09-29",
+      "dev": [
+        "Studio MDHR"
+      ],
+      "publisher": "Studio MDHR Entertainment Inc.",
+      "platforms": [
+        "PC",
+        "Apple Mac",
+        "Sony Playstation 4",
+        "Sony Playstation 5",
+        "Sony Playstation Protable",
+        "Microsoft Xbox 360",
+        "Microsoft Xbox Series X"
+      ],
+      "genre": [
+        "Приключение",
+        "Аркада",
+        "Файтинг"
+      ],
+      "minSys": [
+        "ОС: Windows 7",
+        "Процессор: Intel Core2 Duo E8400, 3.0GHz or AMD Athlon 64 X2 6000+, 3.0GHz or higher",
+        "Оперативная память: 3 GB ОЗУ",
+        "Видеокарта: Geforce 9600 GT or AMD HD 3870 512MB or higher",
+        "Место на диске: 4 GB",
+        "DirectX: Версии 11"
+      ],
+      "recSys": [
+        "ОС: Windows 7",
+        "Процессор: Intel Core2 Duo E8400, 3.0GHz or AMD Athlon 64 X2 6000+, 3.0GHz or higher",
+        "Оперативная память: 3 GB ОЗУ",
+        "Видеокарта: Geforce 9600 GT or AMD HD 3870 512MB or higher",
+        "Место на диске: 4 GB",
+        "DirectX: Версии 11"
+      ],
+      "description": "Cuphead - это игра в жанре run'n'gun, в которой игрокам предстоит управлять необычным героем, который занят вовсе не спасением мира, а просто выколачивает пыль из врагов. Игрокам предстоит помочь Капхеду, который бросил вызов Дьяволу, проиграл свою ставку, и теперь изо всех сил пытается ее вернуть. "
+    },
+    {
+      "id": 17010881950806,
+      "name": "Stray",
+      "image": "https://images.stopgame.ru/games/logos/20451/c224x224/6vfenGj5TFeWKx2dFVznIw/stray-square.jpg",
+      "gallery": [
+        "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhYZGRgaHBocGhwaHBoeHhoaGhwcGhocGhocIS4lHR4rIRoaJjgnKy8xNTU1HCQ7QDs0Py40NTEBDAwMEA8QHxISHzQsJSs9NjQ0NDc2NDQ0NDQ0PTQ0NjQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0ND00NDQ0NP/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAECBQAGB//EAD0QAAIBAgMFBgQDBwQCAwAAAAECEQAhAxIxBEFRYXEFIoGRofCxwdHhEzJCBhQjUmJy8RWSssJTgjND0v/EABoBAAMBAQEBAAAAAAAAAAAAAAECAwAEBQb/xAAqEQACAgICAQMEAgIDAAAAAAAAAQIRAyESMUEEIlETYXGBkaEy4QUUI//aAAwDAQACEQMRAD8AxtpxGsAD14GLGd9Z+2XXvXIZZ8xWlLakSJg7wPHw1rL2g91rGxHofTSkiNEWxsKUQC5LsI5yQKY/0bJfHxEwh/LOdz0RfjNWXHCJJRXMmCxMAyT+Ua+dZSinTJJSapOts0V2rBSBg4WYj9eLDHwQd0daAqEmSM3X5cKBs6ya1sFLUzHSURB8LKZW3EGiowYRHUH3pR9rS1ZeI0GQYO6pygpfk7MOdx72gO3bLkII0PmOVU2XaGRgynqNxFH2nHzoAR3gZ5H6UoKaN8aYmVxUrj0eqw9vV0GWxBFvO3rWv2d2eUTM4/NeddNw9D4V4TBcqZHKedeuTtbPh902Nip1U2uKpii3K09nm+rjJqMYrTdsW7QbMxI0067qthJ3RPKr4DqUZQpLnTlxoWECE6MV8oiPOoepbUuPwejFKMFFeArAaVTYcMsqqIuwmd0lV/7VyqTPeGn1rtkzowSN4yk6TIbdwyzXOF9aNcfs0pKS1yYCshTNaYzB5A5isTG2LI7owhkZ1MGYKsRAMX01r0GH2q2M+GCoUsQgYMQFzBRm0kMFmDNqwW1Nzq1ySSTJuSbk86KdsTF9SKuTvr+RZtki4v1obIIFt/OnlwzGv6gN8RDHUDlVsTZGGGpKk2Bnrvo8qdFlJCSIOFa234f4eygK2uILf3YTZr9JFZuEK9Hta4TbM6vGZQHSSQM2QAG2p1p3/jf3RyZpuOaK8OzC7L2MpLE5GYWJykEcgee+2lNLhoFZGcEM+buwCSZAUnN+S+nThSOzBmgBWcgACJJAHAXMXpjBwSMRA6MgJsWBEkXAE8TA8a55XdtnTS8vZt4nYGFhd4PmYTmGU90I6hiTlsbiJN5MTFeb2vFyY7lRJyiOTHKwnprX0P8AafblTZzmIlrKoJzMfEaC993jXzVySSxgsxJtzM+VCMfc34J+kyTyRuXYLEJLFiczsSxm8k7yffCqgXtJYxf4k+cRyoy4RmFIkxJJAAJMC5sPGwqcbY3SAcssJIDq2ugaDY9dZnfVlVHfGG6D9l4OysjHaMTGV1DMioFjEMWBYgwfAADwFIpss7juB6nfH8uvu9N4ezg2A0HraPnRykCTY8unqDFK5/A6go2an7L9jh3w8QhpBd5gZYU5VX+6SrA6d0jUW3e3MQM7JmRsoTuypZDLZjxWQVHyAk0H9jMTBADNiQ4DrkLQAGZGkA7zlW458K0u2tmwiwxA3fB0kQAdTG4kxJGsCvDz5G/UO711r7lISXJaPLY6KilmIUDea8p2ntYdhkBgbzv03btK9pt+yo6kuobKZE7jEV5DtnDUOuUASOkxEWr0/QtN27v+jepk2n8f2IjZGN2MeppcpDEU8cedxmL8qUmSTXpxb8nBkjFdCj1GU8KuwogwhVLIUe0L3CqDpbSIEEAzwPjWRtLwz5YImeBiZ8as7kgQYt6zH3pPamIknh76VJAUOPQd1/gtG5hS+PgZSCDKm4Py6jSjO/8ACf8AuT/ifqK3/wAMLswcSpAW4E6kLMHWJ03iikznc1Fb8to8tsZlq9Hg4dqBtW0v+AS8FlxFEwuhWbQBY6g1dNqCoGa0invYztxsT7SeLViYz0zt+152MaUlPKikVjpFoqsVOblUkVgs5l06CmNico07rSOIkCuGHIBBHjRcDDiZ4CII1BBpHKug1TNbFwyAGw8QhonLJFgSJ1htJ3i9MHGLqkrlYnvcJMd4eAr0PYm37M+GiHYsJ2UDOzfhy+knvle8epgngKt2s2E6IcLZsjowJZWTKQAe6FVzvy68Odc05Sk7a2ReTi/c6/JTsXswOss6rcgKULZsqhie6f6tNTFqv2r2WGygOsAF5CMLEWNzaRPODQOyO0ThLl7yiJJVmWTfWDruuN1O4+3LiKRLDWZdjZrmMxPAVBya8fsRud3egv7O9n5sFHAUiWzdwtYZhe9xaLAGcpmAQfM9q4UY2IALZ3gePCvbdi4WE2D3wdP6gAJaNNZlp9a8jt2Af3h/6nYD/dE9LGnxpW6MstXJ/D+wLZcHMhFgc6zMgRlxOF/ZrbwUAwMhH6U0gqYy3IItrurGRnRyOHDlGu7f8a0MDbgy5T08sv0p3F2xlmjKKa/IDGwwNjwzYTiGbncX1Hj6CkcXFLIVJlQpCyN5sDB8aZ2vaf4CYGUyrlpm2rHT/wBqR0dFflbrf502JyimvlmlFT9z7TtGr+w+CxxGAy5ghKZgTckagarIuRe9aX7XsEfDZikqzsVXcogIvEmVnqYrKw+0TgO7IBnZXVdIUs8kx4G1Y5TMSARJJLEnViZIk7zNzzpMiS0Ux4XPL9R6Rbb9ufHf8TEMD8qjco4DyuaUWASeB8Sb7t0T7vWi/ZzqWkKBhiWUssybLAm88prl2TExCqKpJUG1gATJljYDugCTwqcpqKuTo9LDGMUlHozVRmOh5ADgLm3KtrsXstXbvAkKNNOAg+Z8q2tn7GVFAGX8R1MZyYBy5rARaRrfrxa2MrhuwYKZUKctxJuRfUa1w5vV8k44+zpTSMV9mUGywImJnwmr7PsOEyuXJYqjNlFgIEwTqT0t1pnFCFpQELfXidaz/wB4XDzl2EOrIADLQ9s3AAC9dOBNxt/H7OP1GSVpRfnwA7Nw8NnLBMsXWXLTEAkAjQZhfietauztm/ENrBfSsPA2rCRy/wCJmGQoq5SIWQQBfl61p/s/tS4hxYEA5Y6d4GqTx8rD9Tj7vwVZ5RuteT7UfNipOnLhN69ptOGFUgCvFdoIBipNxrw3mqYMfASWfndC2Ogu2+3wFLAGWnW9NYzXC8dah8Puk74JJ8Jrqi/knPuzNcUWh4lTia1UkjaKkab6W2tiQeho4fQadaDtBsTFRj2Va0St8Jv7l/4imR26+QJkQoIEGd0Rv5CksJv4bdR8qGVjWqHHxT7Xlj+LtTuqqcNFXUAHLM6Wnr50wrI6KhU2bLrxg7raNQdl2gZI3grqDp4dKf2TGQOuaIzSbPqRHCBeKoorsLk0qo85tOHldl/lZh5GKHFN9qLGM4/rb40qKUazgKsBXLVqxmzQ7NcBkkSCCIsd9ta1dv2RCpIGWFkGwB5CBJrEwMdViZkbx61oYKtir3L7rsF5wMxE1vqcY0c2f0s8mVZIyro0P2ew+9GbKCDN40FvVvStPHATIoFgxGgmLn80Sbka8t1qQ7P2fFS+TUZYPWeOnOmFJxHAIy2J6yRekjLH9NprfgTPDM/Uc7XBLaCbQ15g8z9YpvY2Chzy67moGz4gImYtvjiR8q7H2hEQsWBiCFkSY4cTeoZIXsbH1xS0ev7BzHCFlBBNm115cVrO2/YVDo+RZL4kka75ZvURzFYPZ/bDjKubKrMtzkP5mMmQTECNftXoe2dsRFRUcORnDGRIOokDST8KTDFxlcvk5fV45uDhHtqjMTBVlloykkrOsA6TAMeNLvsShCRIIMaWJ4iYjTnRthxsv5pOnCLExA3anfU4j5s0aW13zqRw1PnXY3BxvyeTij6iGXjurX4MtnBGUWN77zNoPvfSWHhTiJxzijuhu0gCTvHoKriYgzobWINjOguTwqNNq2fTKMoxbQbZ0RcRS5BDG5cEroSJAIMSBv0pzZsN8V1wwMNh+YKhkDXQybwi+B4k0i2OpaM2UiRfd7+VO9nYwwnV1JZoIUxANjMTrafKpZoqm1/snjzSaSafKv0VbEh8jqSZmSR3WIyjq0KPAHdNb+xYmGgUO6KWUKpmYGQTmnQ5iddZFYBwGfv2MGQxUyJME2MWFU2rBYFb5pE6RrFeXnxrL7bPawNKl1a2eix9v/CWe7iFcqhlUC5tbh4VkDFLvmNpbTrXbTgumzlnYSWU5QLCDIvvrL2LHlwWJsfl9afF6RY9rt9s31E0/sagNqzto2ZB+hR4CnlbSNCJ86S21q7Yxo4ll9xhbXghbKJkzz89wr0P7MZVVoPem/IDQdbz415/HeWjnXoOxZQODETMDW8ST6VSSbSNmnGMXXbGtqJa4B8fGvH9rH+Oo/pHxNes27FMwNJEnw+pFeP7WP8AGnTuT0jNVIXWyGJ7F8ZDnE6f5NExx3T0PwoKkkDmd/gfnRcQdw9PjTeTql0jJaiZ+Qoba1erEmauIL8refGq4qd09KoGMVYvaKiXrQvs7dxhyB9aM5zCf1LrzXj1HwjgaVwDAI/p+dNYWIgMywPQH56VR9nN0anYeCrl73hLc1JnwuKPsqZvx5tlsLi35h4Hu+tZmwbQqYodZ1IA/usBPWNeFbewbMyvtDspXNutqcxOhPEU8ZCZlSe+6PN9riMZ/wC40oKe7c/+fE/u+QpEUArpfostWVZqoq6zuoBrZyi9avYyEg/k/MAMzZTJKmBaNVFZiNpT3Z7qsmTYyQFG6TrnE/l4UktoeOj0DbM4Q3tG5wYsb7vQ7qX2Zs5ABMlWUHfZwBcb4ilU2/DYzeQDfKbAAyfzRpNC2fFKklGggEqeTFSNeRqUYtXYMvuWnf6NsPlRSpzHOp1IJy3iTurC7QdncZiLWjNMeVGTFeMpNgNwAiTH186LtiJ+EpC94tBO+w+4PjTtkoR+m77tnbMmXDNiRqGVrAwRuOtxWzte3nDKtlzgQI3x+YknffjOtZOzIVwnG4qWjmGAHoD51r7OZxDxFx/sUfM1B07v7nROmrZbD7e2dgpYZWg5hB14WGmnDWtLIubUgEA9JAO+rnFLfw2RCoLXi5MneeZJ/wAUljYyjFyH8xQ77AoGm55EVzRUvCa/ZH2t7SMraMMsSytYHXhx+HrQHxsrErvgBiNIUg+B+G6nmwRBJOk+lKZQWUajMK7/AKnTC5KSqgD4UFZaA1t9zoVtbhcaz5aaEqogsVUgQdAGMlcsTOZuNL4eMr4qF1zrI7s2OoFtwkgkV6bH7LSQ2GIkjMF0MEEHlF9OPSoZpKTrwHlxSbRXs3EhFDgAlstrDusd1I7SneQb4Ua9KjacbKgvfOP+f2qdrYZkG6F3c687HFqTfyy7nxp/kt2zjp+FkVgzC5i8QN8aa+hry+DjMTK25xN+mlbnaO1JlZM6qRrNokGOp6cKxsHIqdx1eDc94Bd97XHMV6fH2ojhnqV+TU2TbVCAPAuFBAAG+7cND5UrtWOrE5TMa68J38iD4iszH2xkJjeJ3EA6WMUz2NsP42L3nCStiSpm6KAQI7xLceFNFWSm4wuTehJvzr1Hxr0uzLAfmY+I+nlRsf8AZREYE43eBBAyj+bKLTxtQMfFOHhu5iQzKBoCwcrpwtMTTuJyy9XjzVHG7el8HYmETpvIJPXX30ryvaq/xyI/Rp51o/6riOwBdUHGLCL75rO2q7k5s9gM0RI4RWiqs6ccZJ7Fiw0IFvHh6UbaBCHpVUTvZxEcBOm6p2s9w+HxFZdnXN9GM2tWmqGtPCwYAHn1qzdCJWVQ90dKshmp2VM0Dhr0qMRYYxpu9mkfZVS9qFlEMfH51M0XBcBybGRGk38qjaQ0y0yb6a0zOdrbO2cjNBMA6mYiRrO6vUYCqVDYiIWIBYwDJi5J3zr6V5JdnaCTmiJnLbzpg7U+QQzALCweG4/LwFG66NKLml9ju1cUPiuw0LfKPlSwqXv3t516/cfA1UUQ1SLVKsaiK6lASmtHwCA4ziR+rcfOgYX5h1ouIbt40H8B6Q/h7HmTuCXgGJ/MN8X41dhlZlG4WHRRA56UbsZzmGug0Cm0XsSKlAhds4M5mG8Wki8W8am5dpjuDfRVHOkXJA3bgT86Ni4eIb5Ijyt5bhSrYgDst+6wN6tg9oMXcXgxE6C0GtJPtGjdUbOy4JZPy6ixkQbQN+v0rPxcUvi90sAQd++E4HnWrsO0BMA3EgMfJTXmtmc5wMwkKZ11MekAVKCdsa7Z6HYcM51l21FpPGsftjajiYxbgQq8spj/AJSfGtHYQQynNwpPF2dC8ScxIIGgjvG/E9340VpiPTs0P3rMBAMn5x9KoXjUi7A8wBPpR8AIo0bhp6ch8fSltvcExB1XW1oadaCRO/Bbs3/68RrnMpgA2AgzbWDXphtaPkCs2Zmy6aM2dVjN/UPCvMbIgCKIkADnwnfRRigdzfmW0EmzYk2HJgfGlk7laRzetU6Tj46/gv2oGUqmg1BsTILfm5yDxFhTGNtTNBy6ADfurK23HZlRF/SJ5jutMk0MjFiZP+4QOt6T6f2L44zyQTbS/IDtXEDTaCTJHQET8aFsS/w38fgKIiAljiEi0yAG3md/GhviIoYI8yNCoGpA3Ma6N1RSMVFcU7oXxoYH+Zbaj+beD1N69J+xOd8WHyIoXWACwzocsgi1q8riYlrD8xOm/wBeZrT7HxLRfVPg30HlWlLhFyq6Ob17awM+q9obAv4cDEChbqBAg5gxMzM2FeE7ZGdkwx+rEdjylyAfVvKtHtzDUYOGQILLJtrwPr6VmbM2faWY/ozR5x/2ap4cqnaquvNnh+kf+WWq4q/34Ddu4KJhMERVuoEAcQdeMA145vzkco869X+0b2VeJJ8gB8682BDz70sPjXTJ70et/wAXy/66lJ3bbLt3U00GvE3vzv8AGh9ofljkOPEUviYzgwWbdqTpG+eOtdtLSk/PnSpbPRryJ7JhZ3A4XPh94pvaMWDHn1q3Z2FClzv+A9nypDEaTPG9NXOTQ98Ipoc2fEKKe6xZjutljiImfKrOwYdaKmPEzeTJO+TqTxNTtCoLrv4fTpTOuySb6EUBVgZgjSmWZiZmZ438RzobCeoq+FOg13DjStsqlG7GVxXAgMBzAIPnNBbEYt3izLvzEt5gmj4myuNWROTOs/7Vk+lLM2RiVZTbUZt/9wB9KETSarR2JtUSFXD3X/DTdxzT74UPE2vNIKoP7UUeoFQSGPegcwL03hYgVYVFAFyzAMevfkDwAp3LQkcdPSEMy8T5VQvwoxM8PfSijB92raRmrF86jia5MS8mm1whwq4weXxoWg0WQiOoA8xRNlxPw+JPiPUG1Uw8Ezb350dMJv8ABHytStLobkA2vZ2OZwR3iLCSfPhSyI/8rW1sR61qIpo6qbb616EM0I5EFGjm/wAqnB2R1bNkgbgTWykRvmq77n0qfJhsFszsNQfP612FggaD3402kT7+lGcCbacP8ClsVyAkHcg8vtVXRuC+VNB+OnjUu44T0oMRN/AqmIyxYGPXpekfwg7y7ZZmYVm1GgA96Vs90x3T5ioGEv8AL6CgnQ3Kr0YLxh4mVSGGSJgruabG/Gmy2JEQsGJ77eNovu+1bB2kaEBh/K6h18mmB0ipO1J/4cA8f4YU+FzPpTKaDt9o82jlpUgWyCBJ/XfreljgjPkE5swVZAyySVAN54eRr1G1NhuvdTDRpBnJBsQYLKRa3GvPY2E7O+VCzKUIKkHLYQQZnWb/ADplNPoEU03rsz8W5Ak2DE+f2p/svFhWY6yp8g/1pHasPKzCbWEm51HDlRMPEUBgukSZHDTdbXdxppRUo8fkTPBZI8X06s9dtvaGfBwS+HCMDkKustcDvCCdygSBaKUTakRi0OGYTcqZkzIiKw+yduZ3CMqZQpIhFB7sReKe7UeCg3BY+FTWLg2cmHAoyeJpU+6+PuNbVj/jSVRmy81HPfWEjS8bwSCL2MxWhsGPGfmw8sq/es1W/jtzJ9KpFfJ0QfBvFFJJdDGNsYdiQw3aso0Eb6u/ZLuoVSh/91+VIYd3Y7vmfZqztFbi09MvFrSfg2MbslxhlVWe7GvnWN/o+P8A+NvT61v9oba+FswKEK3dUGATfXXfE157/Wtp/wDK3kn/AOaXGp1aaGc78A9rx0BOQyOEER4kmaEmMDQQCdBVTszV00ia0NhqmaWRHG+mAp4UGh4yXkIhjnF+XkKWzsdx8jV8jnfTGHsp3k+lBKjSlYumGx/SedPphqwuXHgp/wC1WTCijAxpfoKzSF5sEuzXmZHOJ+FGw8ED9Pn9qsu6Q07riKsWk39+tKLbLphAcPNvlVcl5tHjREXgJrmi0z5b/A0GZMsicR78akYfI+lSiWHyogPAfKlszYNsPkakKNfrRGPu5rgffvdWs1spPualWHD1qzINflVZEaDxtQCWDAbj51cYvClMPalkqxgi1yIPj96JgYivMTAMTx6Uo7g12hgYx6VVdoINxInh967u9PfMVeREbug/5RNCxaCYGIC0GYFxAifM63pgFbQT433CkZAOs0w2NaI3RInXjSSA4ttUc+0wYyk23Car+8TeD5fegOLjLaoc8TQpFVEl9qB/T6CkcYicwBnd9oqzFf5qCz63U8L/AHpkisePkXbajmXMgYAlirCxYjKCY1AX1FLohOayqDot4vrJ4Wp3Of5R5/Cg4jnhVYyYsoRW0LJgspkZJ/pcVdXa2YyeRkfajbM7AmeFdtby2kRTW3pk1XIGmNYjiTvHHfwpZXhyefxoga1UGJJjnRiBxW2giCJ5+/rUNuqrYtRhtJHUUQJbNH9o8b+HhLxYt/tWP+9YVa3bYDMgv3V3cz9hWTRx6QGtjLoVsQR1tUKRwq6bQw/VI4G48jUFp3DwAHwpzFwOUUcERc0r6VdXHGsKxgOvOroQRoKDnqEfnQowcMNPlUq/uKAMQ7qsXPLpP3rGGVxZ19+lMYTxHdI6/SKSzNrHWuYsbiffjSsFGgcUEydeX2qwcTalFwzFyAev+alMPnbjNLQaG8xHvjfdVlbnS4QbiT5CqHWx86FBobJ+1cWAEjpS6g9fH5VZizHUWvFoHLu/CloNFxcGBPHl61CpzHmPmaCUawsN/wCYD51OO8JdRIvINzbff5bqwyQm+2oWecMscxEnLeDHHl601sD9zk0nUCORB4fKsZGm9a2wqSsjWb9IAgX5etGT8HQ8VQcr77HEE6R6T5TRz0nyEeG+l1eLbwd8DXgZ4VfExwDBYibxYi3nFTZEOqTwnmIj1qIIOo+nrSx2mRc9crDluIoyYtrk/G3TSkdoZJ+ScXCJF/S3xN6AyZbA+sf9r0ZNoGgJ8wPSgs6yJ04EDzG6l2Vja7OOkTUBRpHjb5miOFERH/rHyNL5pOprF4q0SyDd8vrQmQ8aPA9gfSqgA9N1bkOo/IApQnQb6bYDcfGqMgO6eFFTM4WLHZ7Uv+7EG2tPZRwqGQc/WqKbRJ4l8GacPrVkWGFop5oHHxqjYYNMsgjwC+1Al56fAUD93HCmThVbKeNMp0ibwNiAxBx9KspB40FY4UQNXQcpZoFSG9xQ84q+fpQMXULxNGwF4A+XxpVXijJiGOA6xPhvrO6DQV8MmuyL/UfKl1ad59aIGoGobLqRHwiugLYyPATSw8IojYkxpwm89KVmoM19Aetj6UAAzrPvlV0M2Hp8KZ/dHHAHUid3wpW67GS+CqvFr9LVJeOnhVMTAdRLJHviKoDBuJPA0OwdDKYg1k+lR+JzPO4pdwJucvma54GhB4zbW438IrUFUxv8SPtlqmNoVvcRaDqOIqdm2bMjPmACAk2O6+ulZ20bR0HShHb0HoSwibzrW1szZUFt87pG7hWRszDOSeE0zgybyL3vxijJWzpcv/NL5NM7UZ/KY6ChjaAAcpYHmaXVza/r8aIcX+ZE6/4pKJqKGf3kC+Zr/wBtRiuW5jW0A+lLK45AVdY0t5+tBxHVF2xCNB1BI0omdt49Qf8ANLhG4jyqyY44jpb4Usl8FI1exhsOQDJvwj1ANBfFIMEHhe3iCK7NN7DnpV1xCRpIGsTAPXSkTHcWSmIALm3UET5UZcWNL/TlQEcGYIvut8DQXSDu6/ag429lI9Uhh2J0IHh86Euc71HW1Xw03ZlqCk8Kya6NJPuyMZWWASL+P3qjKRrPWqthuNdOMA+mtccKFsxI1sfrT0q7JqTvSKs/u9QjX19+NQW4jL8PfSq2NvZo0OnYTNfnUz0oWTj/AIqpQ1kkZ2ZWaasoqygbzHQT86rmFdh5RYR1qQa6UjRieMgAeEGfOuDDhWMd0FXURrU/vL5cswvAACb7zqajGx2cjMRYQBpA4ChsJf8AEFWQyYoJauXGI0rNGsPkb3Fdn3Rfwpd8djvq2C9ajDWzuVYEx4ax516HAwUy5gw+J868riqRcG3vnVfxCT/ipyhy8jKVHpdp25UBUEE+cVju9LKvOrq3sVlFR6NdjSEamKs2L42i+7p8aWL9aqzGRwrcQ+BpMU6AxNtT6xupLaxlOgPSYN+YHs0aYobX4e/YrJU7B2I4bXni0eFaCYQmwkbpoAwxJ1oqGTvEUzHvWw/4K7xfrXOMvDymhQvs1I5aUgVRbMDqB8KlrbgfEGqELqZ+lQSJ4jrWo3YymGpvv98Kswy6qOv1+9Ko8WpgYhi9xHvWkkmVgXCAjWDVUJEgsADY6iRzG+hZxPdtVy0WOhv7NLTKOu6G8LDSLQfnQlYZjBAHA28RBih4SgflJHGDUHFBMOCSN4NJxdvdjuSaWqDuk7h50PCkaEa6H776kIkSJ8zS5Vtx8/rRjvQXrdDbA2zKOoOlCXDCzFp6fD70vnItMjgR7j4VVMUDdFNxYqlG9jDsLSZ976rlThfx+VCZxv38vhXOCd/vnRSA39rLZY/KfOR61E9aA2b+afGqS3CnUbE+rXgAI41RiN1dXV0HCWSN9FBHSurqBi4y8RUM44Dyqa6sYhG5TXM/9PpU11BjIEBe9qMMvCa6uosHkqjiYNFIEWHpXV1BhKCeEVdTPCurqAxdTFSG6V1dSmI36V2Y11dWCSuomdKISvMeFdXUoxXFRTFSpgV1dWCQ7CLC81RGPD0rq6h4DWy4f+n0omt711dSsrDbOBHAelEBXcSvjUV1K0Vi9HO8fqvF9PZoQA03cv8AFq6urJaNLbKBANJv78K5n3V1dTLYOkdPhUuin38eNdXUGGMU7Kup4kj4VU4kWIJ51FdRjsE9dF2jXSqZa6uoo1Jn/9k=",
+        "https://files.vgtimes.ru/gallery/thumb/174925/1591923879_3963.jpeg",
+        "https://files.vgtimes.ru/gallery/thumb/174925/1654283550_1290.jpeg"
+      ],
+      "rating": "88",
+      "date": "2022-07-19",
+      "dev": [
+        " BlueTwelve Studio"
+      ],
+      "publisher": "Annapurna Interactive",
+      "platforms": [
+        "PC",
+        "Sony Playstation 4",
+        "Sony Playstation 5",
+        "Microsoft Xbox One",
+        "Microsoft Xbox Series X"
+      ],
+      "genre": [
+        "Экшн",
+        "Приключение"
+      ],
+      "minSys": [
+        "ОС: Windows 10",
+        "Процессор: Intel Core i5-2300 | AMD FX-6350",
+        "Оперативная память: 8 GB ОЗУ",
+        "Видеокарта: NVIDIA GeForce GTX 650 Ti, 2 GB | AMD Radeon R7 360, 2 GB",
+        "Место на диске: 10 GB",
+        "DirectX: версии 12"
+      ],
+      "recSys": [
+        "ОС: Windows 10",
+        "Процессор: Intel Core i5-8400 | AMD Ryzen 5 2600",
+        "Оперативная память: 8 GB ОЗУ",
+        "Видеокарта: NVIDIA GeForce GTX 780, 3 GB | AMD Radeon R9 290X, 4 GB",
+        "Место на диске: 10 GB",
+        "DirectX: версии 12"
+      ],
+      "description": "лавный герой игры - бродячий кот, которому предстоит исследовать угрюмый город, полный роботов и различных опасных монстров, чтобы разгадать древнюю тайну и сбежать из города. Кот действует не в одиночку - вместе с ним путешествует маленький летающий дрон B12, который помогает протагонисту в его поисках."
+    },
+    {
+      "id": 17012082154946,
+      "name": "Cyberpunk 2077",
+      "image": "https://images.stopgame.ru/games/logos/12974/c224x224/SUQyCbo9fyNqPnhi6126YA/cyberpunk_2077-square_1.jpg",
+      "gallery": [
+        "https://vkplay.ru/hotbox/content_files/news/2020/08/03/e1ea67f1fc894131addb9aacf748eb3e.jpg",
+        "https://i.playground.ru/p/IffQdT8am5561vrt46P2zQ.jpeg",
+        "https://i.playground.ru/p/y3htKUYtMXLmYCsDrC2GOw.jpeg"
+      ],
+      "rating": "90",
+      "date": "2020-12-10",
+      "dev": [
+        "CD PROJEKT RED"
+      ],
+      "publisher": "CD PROJEKT RED",
+      "platforms": [
+        "PC",
+        "Sony Playstation 4",
+        "Sony Playstation 5",
+        "Microsoft Xbox One",
+        "Microsoft Xbox Series X"
+      ],
+      "genre": [
+        "Экшн",
+        "Приключение",
+        "Ролевая"
+      ],
+      "minSys": [
+        "Операционная система: Windows 7/10 64-разрядная",
+        "Процессор: Intel Core i7-6700 / AMD Ryzen 5 1600",
+        "Оперативная память: 12 ГБ",
+        "Видеокарта: NVIDIA® GeForce® GTX 1060 6 ГБ / NVIDIA® GeForce® GTX 1650 4 ГБ / AMD Radeon RX 580 8 ГБ",
+        "Место на диске: 70 ГБ",
+        "DirectX: DX 12"
+      ],
+      "recSys": [
+        "Операционная система: Windows 7/10 64-разрядная",
+        "Процессор: Intel Core i7-12700 / AMD Ryzen 7 7800X3D\"",
+        "Оперативная память: 16 ГБ",
+        "Видеокарта: NVIDIA® GeForce® 2060 Super / AMD Radeon RX 5700 XT",
+        "Место на диске: 70 ГБ SSD",
+        "DirectX: DX 12"
+      ],
+      "description": "Cyberpunk 77 - это игра от CD Project RED, причем отошедшая от мира фэнтези и средневековья к будущему и киберпанковскому сеттингу. События игры разворачиваются в мире настольной RPG Cyberpunk 2020, однако временные рамки сдвинуты к 2077 году. В центре внимания - протагонист с лаконичным именем Ви, который занимается различной деятельностью на грани закона, хотя в Найт-Сити закон давно существует лишь на бумаге."
+    }
+  ],
+  "reviews": [
+    {
+      "gameId": 17007741460466,
+      "header": "3",
+      "image": "https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/global/games/fob/1280/V.jpg",
+      "text": "3",
+      "id": 2
+    },
+    {
+      "gameId": 17008218627726,
+      "header": "1",
+      "image": "https://club.dns-shop.ru/api/v1/image/getOriginal/q93_6b486388adeaa92abf50163da25a9cf381357e9797b67a719448c55d2b48f278.jpg/",
+      "text": "6666666",
+      "id": 3
+    },
+    {
+      "gameId": 17008478373206,
+      "header": "1",
+      "image": "https://club.dns-shop.ru/api/v1/image/getOriginal/q93_6b486388adeaa92abf50163da25a9cf381357e9797b67a719448c55d2b48f278.jpg/",
+      "text": "123",
+      "id": 4
+    },
+    {
+      "gameId": 17010869063726,
+      "header": "Red Dead Redemption 2",
+      "image": "https://images.stopgame.ru/uploads/users/2023/661662/r847x474/2pzt5v9iRLXBeDPetVpjjA/00003.1o6Mq5m.jpg",
+      "text": "Сюжетная линия и персонажи: Повествование в Red Dead Redemption 2 — это пронзительный приквел к предыдущей игре, глубоко погружающий в жизнь банды Ван дер Линде и их погружение в хаос. В роли Артура Моргана игроки отправляются в захватывающее путешествие верности, искупления и самопознания. Тщательно проработанные персонажи, каждый со своей индивидуальностью, добавляют глубины сюжетной линии. От харизматичного, но беспокойного голландца Ван дер Линде до самого противоречивого Артура, каждое взаимодействие кажется значимым и впечатляющим.\nгровой процесс и иммерсивный мир: игровой процесс в Red Dead Redemption 2 представляет собой идеальное сочетание исследования, боя и захватывающих взаимодействий. От езды верхом по бескрайним просторам до участия в напряженных перестрелках — каждый аспект кажется тщательно продуманным. Внимание к деталям беспрецедентно, с динамическими погодными системами, реалистичным поведением животных и сложной экосистемой, которая оживляет мир. Открытый мир — это захватывающая дух игровая площадка, наполненная потрясающими видами, шумными городами и скрытыми секретами, ожидающими своего открытия.\n\nМоральный выбор и последствия: Red Dead Redemption 2 предоставляет игрокам ряд моральных решений, которые формируют характер Артура и окружающий его мир. Этот выбор влияет на отношения внутри банды, реакцию неигровых персонажей и даже на личное путешествие Артура. Он побуждает игроков задуматься о последствиях своих действий, стирая грань между правильным и неправильным и добавляя дополнительный уровень глубины игровому процессу.\nГрафика и звуковой дизайн. Графическая точность Red Dead Redemption 2 просто ошеломляет. От сложных деталей моделей персонажей до захватывающих дух пейзажей игра представляет собой визуальный шедевр. Динамическое освещение, реалистичные погодные эффекты и тщательное соблюдение исторической достоверности создают захватывающий опыт, который переносит игроков на Дикий Запад. В сочетании с исключительным саундтреком и безупречным звуковым оформлением каждый момент в игре кажется кинематографичным и эмоционально насыщенным.\n\nПобочные квесты и задания. Помимо основной сюжетной линии, Red Dead Redemption 2 предлагает множество побочных квестов и заданий. От охоты на легендарных животных до игры в покер в салунах или просто посиделок у костра с членами банды — всегда есть чем заняться. Эти развлечения не только обеспечивают часы развлечения, но и добавляют глубины миру и населяющим его персонажам, делая игру по-настоящему живой.\n\nВывод: Red Dead Redemption 2 считается величайшим произведением игровой индустрии. Благодаря захватывающему повествованию, незабываемым персонажам и открытому миру, пронизанному атмосферой, игра устанавливает новый стандарт захватывающего повествования. Участвуете ли вы в захватывающих перестрелках, ведете задушевные беседы с членами банды или просто исследуете обширные ландшафты, Red Dead Redemption 2 оставит неизгладимое впечатление. Это шедевр, в котором органично сочетаются геймплей, повествование и захватывающее построение мира, что делает его абсолютно обязательным для любого игрового энтузиаста.",
+      "id": 5
+    },
+    {
+      "gameId": 17010876288046,
+      "header": "Обзор Session: Skate Sim: амбициозный, сложный и реалистичный, но «сырой» симулятор скейтбординга",
+      "image": "https://cdn.kanobu.ru/articles/pics/tmp/images/2022/10/11/33e9ffad-b27f-46b3-b28f-f7b2bbf418a0.webp",
+      "text": "У игр про скейтбординг большое сообщество фанатов, которое изголодалось по хорошим проектам. Долгожданный Skate 4 от Electronic Arts уже долгое время находится на непонятной стадии разработки, и единственный свежий проект — недавно вышедшая в релиз Session: Skateboarding Sim Game. Автор «Канобу» Руслан Ярсанаев попытался разобраться в том, удалось ли разработчикам из Crea-ture Studios воплотить в своей игре всё то, о чём так давно мечтали фанаты.",
+      "id": 7
+    },
+    {
+      "gameId": 17010878536526,
+      "header": "Baldur’s Gate 3 и настольные игры",
+      "image": "https://newcdn.igromania.ru/editor/images/35/23d53088-34a2-46de-b646-09c6ca7d5cd8.webp",
+      "text": "Сначала небольшое, но необходимое вступление, поскольку некоторые могут быть новичками в ролевых и настольных играх. Как известно, Baldur’s Gate 3 основана на Dungeons & Dragons. Но для получения удовольствия от новинки не нужно знать о местной вселенной или поигрывать в настолки.\n\nПредставьте себе фэнтезийный мир, населённый орками, эльфами, гномами… и всевозможными тварями. Вот он, мир Baldur’s Gate 3. С кучей своих нюансов. О них вы узнаете, читая записки и книги, общаясь с персонажами или просто смотря по сторонам. Игра не будет давить вас кучей непонятных терминов и лишней информацией. Вы будете всё лучше познавать её лор, отвечая себе на вопрос: «Хочу ли я узнать что-то новое?»",
+      "id": 8
+    },
+    {
+      "gameId": 17010880302266,
+      "header": "Cuphead: Обзор",
+      "image": "https://images.stopgame.ru/articles/2017/10/14/r847x474/x2oGd9i3yrxY6Nkh6nexeQ/cuphead_review_igry-1507956648.jpg",
+      "text": "И ведь многого не нужно было. Cuphead — это очень прозаичный и даже примитивный shoot 'em up. Бег, прыжок, выстрел — за исключением небольших мелочей, игра полностью выезжает на классическом наборе действий. Посмотрев на неё, вы наверняка почувствуете что-то такое ностальгическое, но решите, что целевая аудитория сего развлечения посещает детский сад, а вам оно вряд ли нужно. И допустите большую ошибку — Cuphead способна удивить вас не только оригинальным сеттингом.\nБольшеглазые персонажи в белых перчатках, винтажные одёжки, жирные контуры вокруг объектов — почерк ранних Disney или Warner Bros. невозможно не узнать. Все эти огромные улыбки, гротескные эмоции у героев знакомы каждому, но далеко не каждый их застал. Здесь любой предмет становится живым — достаточно дорисовать ему два глаза. Здесь повсюду играет лёгкий джаз с ребяческими хлопками, а изображение намеренно подпорчено «шероховатостями».\nВизуальный дизайн Cuphead, безусловно, восхитителен. Художники аутентично передали настроение мультфильмов 30-х годов и нарисовали огромное количество различных декораций и персонажей в духе того времени. Стилизация идеальна, и уже за это художественное чудо мастера StudioMDHR достойны всяческих похвал. Здесь не повторяется ничего: все три игровых мира уникальны в своём визуальном воплощении, каждый уровень со всем его содержимым нарисован с нуля.",
+      "id": 9
+    },
+    {
+      "gameId": 17010881950806,
+      "header": "Stray: Обзор",
+      "image": "https://images.stopgame.ru/uploads/users/2022/280194/r847x474/kI5dFc15uQHVhbTPvlDPTA/00337.0fc1ncN.jpg",
+      "text": "Вы любите кошек? Можете не отвечать, точно знаю — любите. Как и весь видеоигровой мир, который в преддверии выхода  Stray начал вести себя будто кот, почуявший запах валерьянки. Общественность обласкала игру заочно, обеспечив ей твёрдые позиции в чартах продаж за счёт предзаказов, а после релиза и вовсе будто с ума сошла: Stray в одночасье стала самым популярным проектом Annapurna Interactive, стабильно удерживала пиковый онлайн на уровне полусотни тысяч пользователей, а оценки в Steam у неё такие, что остаётся только позавидовать разработчикам.\n\nВ чём же секрет успеха Stray? Может, в одном лишь главном герое — безымянном рыжем коте, который так похож на настоящего и приключения которого приковывают внимание реальных домашних питомцев? Или здесь есть что-то ещё, ради чего на работу BlueTwelve Studio стоит обратить внимание даже тем, кто не питает особых чувств к милым пушистым созданиям?",
+      "id": 10
+    },
+    {
+      "gameId": 17011998848756,
+      "header": "1",
+      "image": "https://sun9-63.userapi.com/impg/azUSLpQU3muSOI6ukFb-GqmJvveCm8NaaJJYBA/8yl11ODXasU.jpg?size=1440x1920&quality=95&sign=0fbf530e85ee563105b56f64ae550cfc&type=album",
+      "text": "123",
+      "id": 11
+    },
+    {
+      "gameId": 17011999931066,
+      "header": "Red Dead Redemption 2",
+      "image": "https://sun9-63.userapi.com/impg/azUSLpQU3muSOI6ukFb-GqmJvveCm8NaaJJYBA/8yl11ODXasU.jpg?size=1440x1920&quality=95&sign=0fbf530e85ee563105b56f64ae550cfc&type=album",
+      "text": "123",
+      "id": 12
+    },
+    {
+      "gameId": 17012082154946,
+      "header": "Обзор Cyberpunk 2077. У CD Projekt Red получилось",
+      "image": "https://newcdn.igromania.ru/mnt/articles/9/6/c/3/3/a/31511/preview/2b3e3092ce4207ae_original.webp",
+      "text": "Кто бы что ни говорил о CD Projekt Red , по одному пункту студия безусловно заслуживает уважения: она постоянно растёт, рискует и развивается — как технологически, так и творчески. С каждым новым «большим» релизом польский коллектив выходит на принципиально новый уровень качества чуть ли не по всем фронтам. Вспомните, как менялся « Ведьмак »: серия началась с дешёвой и кособокой CRPG, продолжение подобралось ближе к АА, а финал трилогии вообще стал поп-культурным феноменом. Всего три игры, но каждая совершила космический шаг вперёд по сравнению с предыдущей.\nЧто касается Cyberpunk 2077 , то у меня есть две новости. Плохая — аналогичного прыжка в качестве на фоне третьего «Ведьмака» не случилось. Хорошая — игра всё равно получилась очень и очень достойной.",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": "1701244521586",
+      "gameId": 17010881950806,
+      "userNickname": "KrutoyAdminchik",
+      "userAvatar": "https://sun9-19.userapi.com/impg/rcvF-wuGwNJZU5JRuyrckz-0nFWw8UTVtCV97w/6YtVz8mo9wI.jpg?size=960x1280&quality=96&sign=2597df27e9abd2e2b1d839fb61205b56&type=album",
+      "text": "кошка :)"
+    },
+    {
+      "id": "1701255726601",
+      "gameId": 17010881950806,
+      "userNickname": "KrutoyAdminchik",
+      "userAvatar": "https://sun9-19.userapi.com/impg/rcvF-wuGwNJZU5JRuyrckz-0nFWw8UTVtCV97w/6YtVz8mo9wI.jpg?size=960x1280&quality=96&sign=2597df27e9abd2e2b1d839fb61205b56&type=album",
+      "text": "поварешка :)"
+    },
+    {
+      "id": "1701255815244",
+      "gameId": 17010881950806,
+      "userNickname": "KrutoyAdminchik",
+      "userAvatar": "https://sun9-19.userapi.com/impg/rcvF-wuGwNJZU5JRuyrckz-0nFWw8UTVtCV97w/6YtVz8mo9wI.jpg?size=960x1280&quality=96&sign=2597df27e9abd2e2b1d839fb61205b56&type=album",
+      "text": "ламповая игра"
+    },
+    {
+      "id": "1701255946725",
+      "gameId": 17010881950806,
+      "userNickname": "KrutoyAdminchik",
+      "userAvatar": "https://sun9-19.userapi.com/impg/rcvF-wuGwNJZU5JRuyrckz-0nFWw8UTVtCV97w/6YtVz8mo9wI.jpg?size=960x1280&quality=96&sign=2597df27e9abd2e2b1d839fb61205b56&type=album",
+      "text": "прикол"
+    },
+    {
+      "id": "1701256050002",
+      "gameId": 17010881950806,
+      "userNickname": "KrutoyAdminchik",
+      "userAvatar": "https://sun9-19.userapi.com/impg/rcvF-wuGwNJZU5JRuyrckz-0nFWw8UTVtCV97w/6YtVz8mo9wI.jpg?size=960x1280&quality=96&sign=2597df27e9abd2e2b1d839fb61205b56&type=album",
+      "text": "каайф"
+    },
+    {
+      "id": "1701259346728",
+      "gameId": 17010869063726,
+      "userNickname": "KrutoyAdminchik",
+      "userAvatar": "https://sun9-19.userapi.com/impg/rcvF-wuGwNJZU5JRuyrckz-0nFWw8UTVtCV97w/6YtVz8mo9wI.jpg?size=960x1280&quality=96&sign=2597df27e9abd2e2b1d839fb61205b56&type=album",
+      "text": "крутая игруха, ваще топ))"
+    }
+  ],
+  "users": [
+    {
+      "id": 228,
+      "login": "admin",
+      "password": "Admin123",
+      "nickname": "Anton228",
+      "likedGames": [
+        "17010869063726"
+      ],
+      "isAdmin": true,
+      "avatar": "https://sun9-33.userapi.com/impf/3xm6MpySTkxoBP7HUDXyZ_2uoaPjJSr16hubUw/FBRNsKQRDts.jpg?size=1080x931&quality=96&sign=29e378652ca819712708a96509d43c1c&type=album"
+    }
+  ]
+}

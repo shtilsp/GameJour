@@ -1,0 +1,77 @@
+.slider{
+  position: relative;
+  padding: 35px 0 0 77px;
+  height: 419px;
+  z-index: 1;
+
+  &__img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: flex;
+
+
+  }
+
+  &__img-content {
+    width: 1400px;
+    height: 450px;
+    border-radius: 14px 14px 0 0;
+  }
+
+
+
+  &__title-title {
+    font-size: 40px;
+    letter-spacing: 3.8px;
+  }
+
+  &__title-text {
+    font-size: 20px;
+    letter-spacing: 1.9px;
+    padding-top: 6px;
+  }
+
+  &__game-name {
+    padding-top: 40px;
+    font-size: 30px;
+    letter-spacing: 2.85px;
+    width: 295px;
+  }
+
+  &__pagination {
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    left: 77px;
+    bottom: 50px;
+
+  }
+
+  &__pagination-el {
+    cursor: pointer;
+    font-size: 30px;
+    border:1px solid $background;
+    padding: 11px 24px;
+    border-radius: 100%;
+    background-color: $background;
+    transition: .3s;
+
+  }
+
+  &__pagination-el:hover {
+    background-color: $white;
+    color: black;
+
+
+  }
+
+  &__pagination-el-active {
+    background-color: $white;
+    color: black;
+  }
+
+}
+
+

@@ -1,0 +1,47 @@
+.main{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: $background;
+
+  min-height: 100vh;
+
+  &__content{
+    background-color: $gameList;
+    position: relative;
+    padding-bottom: 95px;
+    border-radius: 19px;
+  }
+
+  &__tab-buttons{
+    display: flex;
+    gap: 8px;
+    padding-left: 77px;
+  }
+
+  &__tab-btn{
+    background: rgba(30, 34, 36, 0.80);
+    backdrop-filter: blur(2px);
+
+    border-radius: 11px 11px 0px 0px;
+    padding: 6px 18px 6px 18px;
+    cursor: pointer;
+    z-index: 2;
+    transition: .2s;
+  }
+
+  &__tab-btn:hover {
+    scale: 1.05;
+  }
+
+  &__tab-btn-active {
+    background-color: $gameList;
+  }
+
+  &__best-games {
+    background-color: $gameList;
+  }
+}
+
+
+
+

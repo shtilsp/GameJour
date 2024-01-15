@@ -1,0 +1,39 @@
+@import "./base/reset";
+@import "./utils/vars";
+@import "./base/fonts";
+@import "./layout/footer";
+@import "./layout/header";
+@import "./components/logo";
+@import "./layout/main";
+@import "./components/slider";
+@import "./components/best-games";
+@import "./components/card";
+@import "./components/deals";
+@import "./components/profileModal";
+@import "./pages/game";
+@import "./components/catalogue";
+@import "./pages/liked";
+@import "./pages/admin";
+@import "./pages/_profile.scss";
+@import "./components/gallery.scss";
+
+
+input {
+    font-family: MontserratRegular;
+    background-color: $background;
+    color: $white;
+}
+
+body {
+    font-family: MontserratRegular;
+    color: $white;
+}
+
+
+.container {
+    position: relative;
+    margin: auto;
+    max-width: 1400px;
+}
+
+

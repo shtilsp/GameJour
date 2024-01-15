@@ -1,0 +1,41 @@
+.cards {
+  display: flex;
+  flex-direction: row;
+
+  &__card {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+
+  }
+
+  &__card-name {
+    font-size: 12px;
+    letter-spacing: 1.9px;
+    border: 1px solid $white-light;
+    padding: 9px 16px;
+    width: fit-content;
+    border-radius: 6px;
+    opacity: 0;
+    transition: .2s;
+
+  }
+
+  &__card:hover &__card-name{
+    opacity: 1;
+  }
+
+
+}
+
+.card__img {
+  width: 217px;
+  height: 217px;
+
+  object-fit: cover;
+
+  border-radius: 14px;
+}

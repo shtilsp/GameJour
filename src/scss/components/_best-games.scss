@@ -1,0 +1,39 @@
+.best-games {
+
+  padding: 94px 77px;
+
+  &__container {
+    max-width: 1246px;
+    margin: auto;
+  }
+
+  &__title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__title-title{
+    font-size: 25px;
+    letter-spacing: 1.9px;
+  }
+
+  &__title-pagination {
+    display: flex;
+    gap: 21px;
+  }
+
+  &__pagination-el {
+    cursor: pointer;
+    transition: .2s;
+  }
+
+  &__pagination-el:hover {
+    scale: 1.1;
+  }
+
+  &__cards {
+    padding-top: 8px;
+  }
+
+}

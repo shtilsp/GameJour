@@ -1,0 +1,37 @@
+.deals {
+  padding-top: 100px;
+
+  &__cards {
+    padding-top: 45px;
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+
+
+  .deals__cards-card:hover {
+    scale: 1.05;
+  }
+
+  &__card {
+    width: 100%;
+    aspect-ratio: 1.11 / 1;
+    object-fit: cover;
+    border-radius: 14px;
+  }
+
+}
+
+.deals__cards-card {
+  transition: .2s;
+
+
+}
+
+.link {
+  max-width: 374px;
+  width: 100%;
+  aspect-ratio: 1.11 / 1;
+}
+
